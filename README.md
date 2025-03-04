@@ -1,4 +1,4 @@
-![Toadally game](/photos/Capture_1.png)
+![Toadally game](/photos/Capture_1.PNG)
 
 # Toadally - Frog game
 Jump into a fun-filled arcade-inspired game where you control a hungry frog 🐸, leaping and catching bugs to rack up points!
@@ -14,6 +14,6 @@ Jump into a fun-filled arcade-inspired game where you control a hungry frog 🐸
 Get ready to hop and leap in this fun arcade game! 
 
 ## More pictures
-![Toadally game](/photos/Capture_2.png)
-![Toadally game](/photos/Capture_3.png)
-![Toadally game](/photos/Capture_4.png)
+![Toadally game](/photos/Capture_2.PNG)
+![Toadally game](/photos/Capture_3.PNG)
+![Toadally game](/photos/Capture_4.PNG)
