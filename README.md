@@ -1,3 +1,5 @@
+![Toadally game](/photos/Capture_1.png)
+
 # Toadally - Frog game
 Jump into a fun-filled arcade-inspired game where you control a hungry frog 🐸, leaping and catching bugs to rack up points!
 
@@ -10,3 +12,8 @@ Jump into a fun-filled arcade-inspired game where you control a hungry frog 🐸
 - **Made in Lua with Solar2D** 💻: Built using the Lua programming language and Solar2D framework, ensuring smooth gameplay and performance across platforms.
 
 Get ready to hop and leap in this fun arcade game! 
+
+## More pictures
+![Toadally game](/photos/Capture_2.png)
+![Toadally game](/photos/Capture_3.png)
+![Toadally game](/photos/Capture_4.png)
